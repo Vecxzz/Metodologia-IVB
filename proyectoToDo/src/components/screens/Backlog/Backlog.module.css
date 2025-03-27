@@ -1,0 +1,78 @@
+.containerBacklog {
+  width: 75%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.containerBacklog h1 {
+  margin: 20px;
+}
+
+.crearTareaButton {
+  width: 150px;
+  height: 40px;
+  margin-left: 20px;
+  background-color: #00adb5;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  font-size: 20px;
+}
+
+.backlogIcon {
+  margin-left: 8px;
+  font-size: 22px;
+  transform: translateY(5px);
+}
+
+.containerTareaBacklog {
+  width: 70vw;
+  margin-left: 20px;
+  margin-top: 20px;
+  background-color: #393e46;
+  padding: 15px;
+  border-radius: 10px;
+  color: #eee;
+}
+
+.buttons {
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.dropdown {
+  min-width: 150px;
+}
+
+.visibilityButton,
+.editButton,
+.deleteButton,
+.sendButton {
+  border: none;
+  border-radius: 5px;
+  padding: 3px;
+  margin: 2px;
+  color: white;
+}
+
+.visibilityButton,
+.editButton,
+.sendButton {
+  background-color: #00adb5;
+}
+
+.deleteButton {
+  background-color: red;
+}
+
+.sendButton {
+  font-size: 20px;
+}
+
+.sendIcon {
+  transform: translateY(5px);
+}
