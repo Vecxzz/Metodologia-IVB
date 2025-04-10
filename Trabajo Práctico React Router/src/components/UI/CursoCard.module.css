@@ -1,0 +1,24 @@
+.cursoCard {
+  width: 40%;
+  min-height: 150px;
+  display: inline-block;
+  margin: 20px;
+  background-color: rgb(190, 226, 238);
+  border-radius: 10px;
+  padding: 10px;
+  font-size: 17px;
+}
+
+.cursoCard p {
+  margin-bottom: 10px;
+}
+
+.cursoCard button {
+  width: 45%;
+  height: 30px;
+  font-size: 15px;
+  border: none;
+  border-radius: 20px;
+  background-color: #dbdada;
+  color: black;
+}

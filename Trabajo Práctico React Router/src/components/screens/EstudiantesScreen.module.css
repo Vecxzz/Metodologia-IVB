@@ -1,0 +1,17 @@
+.contenedorEstudiantes {
+  width: 100%;
+  height: 100vh;
+  background-color: rgb(0, 49, 82);
+}
+
+.contenedorEstudiantes h1 {
+  height: 70px;
+  line-height: 60px;
+  text-align: center;
+  background-color: rgb(201, 230, 240);
+}
+
+.contenedorEstudiantesCard {
+  width: 50%;
+  margin: 0 auto;
+}

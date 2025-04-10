@@ -1,0 +1,10 @@
+.estudianteCard {
+  width: 23%;
+  min-height: 80px;
+  display: inline-block;
+  margin: 20px 10px 0px 30px;
+  background-color: rgb(190, 226, 238);
+  border-radius: 10px;
+  padding: 10px;
+  font-size: 17px;
+}
